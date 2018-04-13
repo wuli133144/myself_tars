@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/tars2php.dir/main.cpp.o CMakeFiles/tars2php.dir/tars2php.cpp.o  -o tars2php -rdynamic -ltarsutil ../lib/libtarsparse.a -ltarsutil 

@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../util/include/util/tc_functor.h
+memory
+-
+iostream
+-
+util/tc_loki.h
+../util/include/util/util/tc_loki.h
+
+../util/include/util/tc_loki.h
+memory
+-
+
+/usr/local/Tars/cpp/test/testUtil/example_tc_functor.cpp
+util/tc_functor.h
+/usr/local/Tars/cpp/test/testUtil/util/tc_functor.h
+iostream
+-
+vector
+-
+cassert
+-
+

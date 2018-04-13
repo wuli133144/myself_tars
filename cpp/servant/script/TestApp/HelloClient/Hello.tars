@@ -1,0 +1,10 @@
+
+module TestApp
+{
+
+interface Hello
+{
+    int test();
+};
+
+}; 

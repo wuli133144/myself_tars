@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../util/include/util/tc_ex.h
+stdexcept
+-
+
+../util/include/util/tc_file_mutex.h
+unistd.h
+-
+util/tc_lock.h
+../util/include/util/util/tc_lock.h
+
+../util/include/util/tc_lock.h
+string
+-
+stdexcept
+-
+cerrno
+-
+util/tc_ex.h
+../util/include/util/util/tc_ex.h
+
+/usr/local/Tars/cpp/test/testUtil/example_tc_file_lock.cpp
+util/tc_file_mutex.h
+/usr/local/Tars/cpp/test/testUtil/util/tc_file_mutex.h
+unistd.h
+-
+iostream
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/tars2node.dir/main.cpp.o CMakeFiles/tars2node.dir/tars2node.cpp.o CMakeFiles/tars2node.dir/tars2nodeprx.cpp.o CMakeFiles/tars2node.dir/tars2nodescan.cpp.o CMakeFiles/tars2node.dir/tars2server.cpp.o CMakeFiles/tars2node.dir/tars2serverimp.cpp.o  -o tars2node -rdynamic -ltarsutil ../lib/libtarsparse.a -ltarsutil 

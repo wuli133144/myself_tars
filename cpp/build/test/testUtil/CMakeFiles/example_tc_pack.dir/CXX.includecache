@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../util/include/util/tc_ex.h
+stdexcept
+-
+
+../util/include/util/tc_pack.h
+netinet/in.h
+-
+vector
+-
+map
+-
+string
+-
+assert.h
+-
+util/tc_ex.h
+../util/include/util/util/tc_ex.h
+
+/usr/local/Tars/cpp/test/testUtil/example_tc_pack.cpp
+util/tc_pack.h
+/usr/local/Tars/cpp/test/testUtil/util/tc_pack.h
+iostream
+-
+cassert
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++       CMakeFiles/tars2oc.dir/main.cpp.o CMakeFiles/tars2oc.dir/tars2oc.cpp.o  -o tars2oc -rdynamic -ltarsutil ../lib/libtarsparse.a -ltarsutil 

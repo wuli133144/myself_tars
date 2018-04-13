@@ -1,0 +1,1 @@
+/usr/bin/c++    -g -O2 -Wall -Wno-deprecated    CMakeFiles/tars2oc.dir/main.cpp.o CMakeFiles/tars2oc.dir/tars2oc.cpp.o  -o tars2oc -rdynamic ../../util/lib/libtarsutil.a ../lib/libtarsparse.a ../../util/lib/libtarsutil.a /usr/local/libiconv-1.15/lib/libiconv.so.2 /usr/local/libiconv-1.15/lib/libiconv.so -liconv -Wl,-rpath,/usr/local/libiconv-1.15/lib: 

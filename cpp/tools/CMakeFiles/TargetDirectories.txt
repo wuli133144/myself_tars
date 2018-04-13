@@ -1,0 +1,10 @@
+/usr/local/Tars/cpp/tools/tarsgrammar/CMakeFiles/COPY-LEX-YACC.dir
+/usr/local/Tars/cpp/tools/tars2android/CMakeFiles/tars2android.dir
+/usr/local/Tars/cpp/tools/tars2c/CMakeFiles/tars2c.dir
+/usr/local/Tars/cpp/tools/tars2cpp/CMakeFiles/tars2cpp.dir
+/usr/local/Tars/cpp/tools/tars2cs/CMakeFiles/tars2cs.dir
+/usr/local/Tars/cpp/tools/tars2node/CMakeFiles/tars2node.dir
+/usr/local/Tars/cpp/tools/tars2oc/CMakeFiles/tars2oc.dir
+/usr/local/Tars/cpp/tools/tars2php/CMakeFiles/tars2php.dir
+/usr/local/Tars/cpp/tools/tars2python/CMakeFiles/tars2python.dir
+/usr/local/Tars/cpp/tools/tarsparse/CMakeFiles/tarsparse.dir
